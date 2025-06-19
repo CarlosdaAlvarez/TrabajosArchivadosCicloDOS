@@ -1,0 +1,2 @@
+umlrecursos.Revista
+recurso.Revista
